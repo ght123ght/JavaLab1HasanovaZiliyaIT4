@@ -157,6 +157,7 @@ public class Task3 {
     }
 
 
+
     public static void guessGame(Scanner scanner) {
         Random random = new Random();
         int secretNumber = random.nextInt(10);  //Случайное целое число от 0 до 9 вкл
